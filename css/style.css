@@ -1,0 +1,16 @@
+.polyart {
+  background-image: url(../img/polyart.png) no-repeat;
+  background-size: cover;
+}
+
+.mylogo {
+  font-family: 'Monoton';
+  color: #379aa0;
+  font-size: 40px;
+} 
+
+.landing-linda {
+  text-align: center;
+}
+
+

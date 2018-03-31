@@ -1,0 +1,40 @@
+.polyart {
+  background-image: url(../img/polyart.png) no-repeat;
+  background-size: cover;
+}
+
+.mylogo {
+  font-family: 'Monoton';
+  color: #009ea4;
+  font-size: 50px;
+} 
+
+.linda-brand {
+  font-size: 45px; 
+  letter-spacing: 0.1em;
+  font-family: Monoton;
+}
+
+/* style="font-size: 45px; letter-spacing: 0.1em; font-family: Monoton" */
+
+.techlogos {
+  font-family: 'Helvetica';
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+h1 {
+  color:#009ea4;
+}
+
+.hvr-wobble-vertical {
+    display: inline-block;
+    /* vertical-align: middle; */
+    cursor: pointer;
+    text-decoration: none;
+    color: #666;
+    /* Prevent highlight colour when element is tapped */
+    /* -webkit-tap-highlight-color: rgba(0, 0, 0, 0); */
+    t    transition: all 0.3s ease-out
+}
