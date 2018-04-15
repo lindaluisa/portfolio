@@ -24,6 +24,10 @@
   color: white;
 }
 
+.techlogo-bs {
+  max-width: 29vh;
+}
+
 h1 {
   color:#009ea4;
 }
@@ -36,5 +40,9 @@ h1 {
     color: #666;
     /* Prevent highlight colour when element is tapped */
     /* -webkit-tap-highlight-color: rgba(0, 0, 0, 0); */
-    t    transition: all 0.3s ease-out
+        transition: all 0.3s ease-out
+}
+
+.daycolor {
+  color: #009ea4;
 }
